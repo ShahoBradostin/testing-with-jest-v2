@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest-v2",
+  "version": "1.0.0",
+  "description": "A Jest + npm lab session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahoBradostin/testing-with-jest-v2.git"
+  },
+  "author": "Shaho Bradostin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShahoBradostin/testing-with-jest-v2/issues"
+  },
+  "homepage": "https://github.com/ShahoBradostin/testing-with-jest-v2#readme"
+}
