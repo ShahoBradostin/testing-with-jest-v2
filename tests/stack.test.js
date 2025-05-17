@@ -29,6 +29,6 @@ test('pop on stack with elements removes and returns the top element', () => {
     expect(stack.pop()).toBe(3);
     expect(stack.peek()).toBe(2);
     expect(stack.pop()).toBe(2);
-    expect(stack.pop()).toBe(2); //ändra från 1 till 2
+    expect(stack.pop()).toBe(1); //ändra från 1 till 2
     expect(stack.pop()).toBeUndefined();
 });
